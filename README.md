@@ -7,3 +7,5 @@ Official Coding Repository for IEEE SBM 2025
  - Be active, don't shy away from asking doubts, make the best of this repo.
 	
   HAVE FUN!
+
+(refer to the wiki for tasks)
